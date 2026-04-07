@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.rpyc
+*.rpyb
+*.bak
+__pycache__/
+game/cache/
+game/saves/
+game/debug_string_capture.txt
+log.txt
+errors.txt
+traceback.txt
